@@ -11,12 +11,13 @@
   "fonts\\Oswald-regular.ttf": "fonts/Oswald-regular.8573096c5e435cde244a0483601020a2.ttf",
   "fonts\\Oswald-regular.woff": "fonts/Oswald-regular.4cd42bac8ebc77f27c60ce7ffe3bb975.woff",
   "fonts\\Oswald-regular.woff2": "fonts/Oswald-regular.29b3a057ac523422b12afa8f7cf692f7.woff2",
-  "main.css": "static/css/main.0b3b6cf7.css",
-  "main.css.map": "static/css/main.0b3b6cf7.css.map",
-  "main.js": "static/js/main.28078da3.js",
-  "main.js.map": "static/js/main.28078da3.js.map",
+  "main.css": "static/css/main.1636a9c9.css",
+  "main.css.map": "static/css/main.1636a9c9.css.map",
+  "main.js": "static/js/main.cd11c23c.js",
+  "main.js.map": "static/js/main.cd11c23c.js.map",
   "static\\media\\Open-Sans-regular.svg": "static/media/Open-Sans-regular.60d068a5.svg",
   "static\\media\\Oswald-300.svg": "static/media/Oswald-300.35737abd.svg",
   "static\\media\\Oswald-regular.svg": "static/media/Oswald-regular.9b83d15e.svg",
+  "static\\media\\kovan-network.png": "static/media/kovan-network.6f33f95b.png",
   "static\\media\\slack.png": "static/media/slack.2b687a81.png"
 }
